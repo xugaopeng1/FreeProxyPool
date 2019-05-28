@@ -1,0 +1,9 @@
+requests==2.18.4
+tornado==5.1
+PyMySQL==0.9.2
+Twisted==18.7.0
+SQLAlchemy==1.2.11
+chardet==3.0.4
+mysql-connector
+scrapy
+DBUtils
